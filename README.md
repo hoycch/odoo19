@@ -1,2 +1,2 @@
-# odoo17
+# odoo19
 working docker compose
